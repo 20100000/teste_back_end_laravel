@@ -25,4 +25,3 @@ php artsan db:seed
 ## Run
 
 php artsan serve
-## Security Vulnerabilities
